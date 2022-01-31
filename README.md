@@ -5,14 +5,17 @@ This script shuts down or restarts your computer
 - `Python 3`
 - import platform
 ### How to run the script
-Steps on how to run the script along with suitable examples.
+Steps on how to run the script along with examples.
+
 Type the following on the command prompt:
-- python shutdownORrestart.py
-- Press enter and wait for prompt. Type “r” to restart or “s” to shut down
+> python shutdownORrestart.py
+> 
+> Press enter and wait for prompt. Type “r” to restart or “s” to shut down
 
 Example:
-> python shutdownORrestart.py 
-
+```python3
+python shutdownORrestart.py
+```
 Use 'r' for restart and 's' for shutdown: r
 
 ### Screenshot showing the sample use of the script
